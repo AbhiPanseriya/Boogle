@@ -1,4 +1,4 @@
-export default {
+export default Response = {
 	kind: "customsearch#search",
 	url: {
 		type: "application/json",
